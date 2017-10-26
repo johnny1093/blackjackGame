@@ -1,0 +1,81 @@
+body {
+  background-color: green;
+}
+
+p {
+  color: white;
+}
+
+#currentValueDealer {
+  color: white;
+  position: relative;
+  left: 100px;
+  top: 200px;
+}
+
+#currentValuePlayer {
+  color: white;
+  position: relative;
+  left: 100px;
+  top: 650px;
+}
+
+#playerCards {
+  width: 200px;
+  border-width: 5px;
+  border-style: dashed;
+  background-color: lightgreen;
+  position: relative;
+  left: 500px;
+  padding-top: 150px;
+  padding-bottom: 150px;
+}
+
+#dealersCards {
+  width: 200px;
+  border-width: 5px;
+  border-style: dashed;
+  background-color: lightgreen;
+  position: relative;
+  left: 500px;
+  padding-top: 150px;
+  padding-bottom: 150px;
+}
+
+#buttonPanel {
+  position: relative;
+  left: 500px;
+  padding-bottom: 50px;
+}
+
+#winLoseMsg {
+  text-align: center;
+  position: relative;
+  left: 200px;
+}
+
+#cashAmount {
+  width: 100px;
+  border-width: 5px;
+  border-style: dashed;
+  background-color: lightgreen;
+  float: left;
+}
+
+#betAmount {
+  width: 100px;
+  border-width: 5px;
+  border-style: dashed;
+  background-color: lightgreen;
+  float: right;
+}
+
+#bottomNav {
+  border-width: 5px;
+  border-style: dashed;
+}
+
+#pageContent {
+  width: 750px;
+  padding-left: 100px;
+}
